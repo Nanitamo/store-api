@@ -1,2 +1,2 @@
-const name = "Nanitamo Antonio "
+const name = "hello Git "
 console.log(name)
